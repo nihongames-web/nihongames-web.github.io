@@ -1,0 +1,2502 @@
+[
+  {
+    "id": "color-wavee",
+    "thumbnail": "https://nihongames-web.github.io/images/300.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "metal-guns-fury",
+    "thumbnail": "https://nihongames-web.github.io/images/301.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cooking-world-reborn",
+    "thumbnail": "https://nihongames-web.github.io/images/302.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fashion-dye-pro",
+    "thumbnail": "https://nihongames-web.github.io/images/303.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "push-push-cat",
+    "thumbnail": "https://nihongames-web.github.io/images/304.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fury-tanks",
+    "thumbnail": "https://nihongames-web.github.io/images/305.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "idle-firefighter-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/306.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "outside",
+    "thumbnail": "https://nihongames-web.github.io/images/307.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "fillwords-find-all-the-words",
+    "thumbnail": "https://nihongames-web.github.io/images/308.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "flick-baseball-super-homerun",
+    "thumbnail": "https://nihongames-web.github.io/images/309.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "pin-master-screw-puzzle-quest-brain-games",
+    "thumbnail": "https://nihongames-web.github.io/images/310.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "super-onion-boy-2",
+    "thumbnail": "https://nihongames-web.github.io/images/311.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stickman-mega-boss-battles",
+    "thumbnail": "https://nihongames-web.github.io/images/312.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "ninja-obby-parkour",
+    "thumbnail": "https://nihongames-web.github.io/images/313.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "fruit-survivor",
+    "thumbnail": "https://nihongames-web.github.io/images/314.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "celebrity-face-dance",
+    "thumbnail": "https://nihongames-web.github.io/images/315.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "rummy-500-card-game",
+    "thumbnail": "https://nihongames-web.github.io/images/316.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "connect-image",
+    "thumbnail": "https://nihongames-web.github.io/images/317.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "club-tycoon-idle-clicker",
+    "thumbnail": "https://nihongames-web.github.io/images/318.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kitty-scramble",
+    "thumbnail": "https://nihongames-web.github.io/images/319.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "apple-worm",
+    "thumbnail": "https://nihongames-web.github.io/images/320.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-escape",
+    "thumbnail": "https://nihongames-web.github.io/images/321.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bubble-shooter-remastered",
+    "thumbnail": "https://nihongames-web.github.io/images/322.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "zumba-quest",
+    "thumbnail": "https://nihongames-web.github.io/images/323.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "stickman-rocket",
+    "thumbnail": "https://nihongames-web.github.io/images/324.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "hidden-object-adventure",
+    "thumbnail": "https://nihongames-web.github.io/images/325.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mission-santa-deliver-the-gifts",
+    "thumbnail": "https://nihongames-web.github.io/images/326.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "100-hidden-capybaras",
+    "thumbnail": "https://nihongames-web.github.io/images/327.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-nonogram-puzzle-2",
+    "thumbnail": "https://nihongames-web.github.io/images/328.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "roof-car-stunt",
+    "thumbnail": "https://nihongames-web.github.io/images/329.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "jelly-run-2048",
+    "thumbnail": "https://nihongames-web.github.io/images/330.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dunk-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/331.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "brain-test-one-line-draw-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/332.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "royal-coin-rush",
+    "thumbnail": "https://nihongames-web.github.io/images/333.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "car-racing-3d-drive-mad",
+    "thumbnail": "https://nihongames-web.github.io/images/334.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "army-defence-dino-shoot",
+    "thumbnail": "https://nihongames-web.github.io/images/335.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ship-fish",
+    "thumbnail": "https://nihongames-web.github.io/images/336.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "spooky-chains",
+    "thumbnail": "https://nihongames-web.github.io/images/337.webp",
+    "genre": "Agility, Match-3"
+  },
+  {
+    "id": "archer-dungeon-hero",
+    "thumbnail": "https://nihongames-web.github.io/images/338.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "squad-assembler",
+    "thumbnail": "https://nihongames-web.github.io/images/339.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "drive-in-cinema-idle-game",
+    "thumbnail": "https://nihongames-web.github.io/images/340.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "santa-vs-skritch",
+    "thumbnail": "https://nihongames-web.github.io/images/341.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "crazyzombies-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/342.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "heroball-adventures-2",
+    "thumbnail": "https://nihongames-web.github.io/images/343.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "the-trendy-mermaid",
+    "thumbnail": "https://nihongames-web.github.io/images/344.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bomb-head-hot-potato",
+    "thumbnail": "https://nihongames-web.github.io/images/345.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sniper-shooter-2",
+    "thumbnail": "https://nihongames-web.github.io/images/346.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sky-maze-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/347.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "fill-sort-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/348.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gold-miner-tower-defense",
+    "thumbnail": "https://nihongames-web.github.io/images/349.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "plane-crash-ragdoll-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/350.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "football-stars-championship",
+    "thumbnail": "https://nihongames-web.github.io/images/351.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "horse-racing-derby-quest",
+    "thumbnail": "https://nihongames-web.github.io/images/352.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blockbuster-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/353.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supermarket-sort-n-match",
+    "thumbnail": "https://nihongames-web.github.io/images/354.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "portals",
+    "thumbnail": "https://nihongames-web.github.io/images/355.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "uphill-rush-13",
+    "thumbnail": "https://nihongames-web.github.io/images/356.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "family-squid-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/357.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "soccer-duel",
+    "thumbnail": "https://nihongames-web.github.io/images/358.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "draw-bridge-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/359.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "devil-dash",
+    "thumbnail": "https://nihongames-web.github.io/images/360.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "girly-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/361.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bffs-k-pop-fangirls",
+    "thumbnail": "https://nihongames-web.github.io/images/362.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sort-and-style-back-to-school",
+    "thumbnail": "https://nihongames-web.github.io/images/363.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "flower-fairy-adventure-story",
+    "thumbnail": "https://nihongames-web.github.io/images/364.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "traffic-jam-hop-on",
+    "thumbnail": "https://nihongames-web.github.io/images/365.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-town",
+    "thumbnail": "https://nihongames-web.github.io/images/366.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "winter-solitaire-tripeaks",
+    "thumbnail": "https://nihongames-web.github.io/images/367.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "bobb-s-world",
+    "thumbnail": "https://nihongames-web.github.io/images/368.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hide-moodeng-hippo",
+    "thumbnail": "https://nihongames-web.github.io/images/369.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zindex",
+    "thumbnail": "https://nihongames-web.github.io/images/370.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "mind-games-math-crosswords",
+    "thumbnail": "https://nihongames-web.github.io/images/371.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "space-survivor",
+    "thumbnail": "https://nihongames-web.github.io/images/372.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "stickman-leave-prison",
+    "thumbnail": "https://nihongames-web.github.io/images/373.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "vex-x3m",
+    "thumbnail": "https://nihongames-web.github.io/images/374.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "escape-from-the-portal",
+    "thumbnail": "https://nihongames-web.github.io/images/375.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "homerun-derby",
+    "thumbnail": "https://nihongames-web.github.io/images/376.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "ragdoll-mega-dunk",
+    "thumbnail": "https://nihongames-web.github.io/images/377.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "dummies-world-cup",
+    "thumbnail": "https://nihongames-web.github.io/images/378.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "little-master-of-assembly",
+    "thumbnail": "https://nihongames-web.github.io/images/379.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "fashion-world-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/380.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "bubble-it-jam",
+    "thumbnail": "https://nihongames-web.github.io/images/381.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bunny-blox",
+    "thumbnail": "https://nihongames-web.github.io/images/382.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tile-guru",
+    "thumbnail": "https://nihongames-web.github.io/images/383.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-the-alien-prison",
+    "thumbnail": "https://nihongames-web.github.io/images/384.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "sorting-frogs",
+    "thumbnail": "https://nihongames-web.github.io/images/385.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "relax-mini-games-collection",
+    "thumbnail": "https://nihongames-web.github.io/images/386.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pops-quest",
+    "thumbnail": "https://nihongames-web.github.io/images/387.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "tank-battle-war-commander",
+    "thumbnail": "https://nihongames-web.github.io/images/388.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2-3-4-player-games",
+    "thumbnail": "https://nihongames-web.github.io/images/389.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dualight-a-reflected-game",
+    "thumbnail": "https://nihongames-web.github.io/images/390.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sort-game-toy-sort",
+    "thumbnail": "https://nihongames-web.github.io/images/391.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "antistress-relaxation-box",
+    "thumbnail": "https://nihongames-web.github.io/images/392.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "3dash",
+    "thumbnail": "https://nihongames-web.github.io/images/393.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "academy-assault",
+    "thumbnail": "https://nihongames-web.github.io/images/394.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "arrow-wave",
+    "thumbnail": "https://nihongames-web.github.io/images/395.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "ragdoll-arena-2-player",
+    "thumbnail": "https://nihongames-web.github.io/images/396.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "rope-sorting",
+    "thumbnail": "https://nihongames-web.github.io/images/397.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wheel-of-bingo",
+    "thumbnail": "https://nihongames-web.github.io/images/398.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/399.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "airport-controller",
+    "thumbnail": "https://nihongames-web.github.io/images/400.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "little-candy-bakery",
+    "thumbnail": "https://nihongames-web.github.io/images/401.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "foam-and-find",
+    "thumbnail": "https://nihongames-web.github.io/images/402.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hospital-game-happy-clinic",
+    "thumbnail": "https://nihongames-web.github.io/images/403.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "swipetown",
+    "thumbnail": "https://nihongames-web.github.io/images/404.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "enchanted-mahjong-saga",
+    "thumbnail": "https://nihongames-web.github.io/images/405.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "bubble-sorting-infinite-remastered",
+    "thumbnail": "https://nihongames-web.github.io/images/406.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "hamster-combo-idle",
+    "thumbnail": "https://nihongames-web.github.io/images/407.webp",
+    "genre": "Casual, Educational"
+  },
+  {
+    "id": "my-hospital-learn-care",
+    "thumbnail": "https://nihongames-web.github.io/images/408.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "twinkle-shooter",
+    "thumbnail": "https://nihongames-web.github.io/images/409.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "moon-league-sports-season",
+    "thumbnail": "https://nihongames-web.github.io/images/410.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "design-with-me-superhero-tutu-outfits",
+    "thumbnail": "https://nihongames-web.github.io/images/411.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "caterfall-2048",
+    "thumbnail": "https://nihongames-web.github.io/images/412.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "capybara-go",
+    "thumbnail": "https://nihongames-web.github.io/images/413.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "falling-blocks-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/414.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "love-tile-trio",
+    "thumbnail": "https://nihongames-web.github.io/images/415.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-stacking",
+    "thumbnail": "https://nihongames-web.github.io/images/416.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ship-factory-tycoon",
+    "thumbnail": "https://nihongames-web.github.io/images/417.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "virtual-neko-kitty-collector",
+    "thumbnail": "https://nihongames-web.github.io/images/418.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "puzzle-wood-block",
+    "thumbnail": "https://nihongames-web.github.io/images/419.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fishing-baron-real-fishing",
+    "thumbnail": "https://nihongames-web.github.io/images/420.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "back-to-school-uniforms-edition",
+    "thumbnail": "https://nihongames-web.github.io/images/421.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "obby-draw-to-escape",
+    "thumbnail": "https://nihongames-web.github.io/images/422.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "secret-rooms",
+    "thumbnail": "https://nihongames-web.github.io/images/423.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "draw-the-weapon",
+    "thumbnail": "https://nihongames-web.github.io/images/424.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "noob-shooter-gun-battle-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/425.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "world-flags-trivia",
+    "thumbnail": "https://nihongames-web.github.io/images/426.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "chicken-banana-run",
+    "thumbnail": "https://nihongames-web.github.io/images/427.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "magic-finger",
+    "thumbnail": "https://nihongames-web.github.io/images/428.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bear-vs-humans",
+    "thumbnail": "https://nihongames-web.github.io/images/429.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "brainrot-evolution",
+    "thumbnail": "https://nihongames-web.github.io/images/430.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hit-knock-down",
+    "thumbnail": "https://nihongames-web.github.io/images/431.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kids-supermarket",
+    "thumbnail": "https://nihongames-web.github.io/images/432.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "magic-princess-dress-up-doll",
+    "thumbnail": "https://nihongames-web.github.io/images/433.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "nuwpys-adventure",
+    "thumbnail": "https://nihongames-web.github.io/images/434.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cool-man",
+    "thumbnail": "https://nihongames-web.github.io/images/435.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "jewelry-idle",
+    "thumbnail": "https://nihongames-web.github.io/images/436.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "geometry-flap",
+    "thumbnail": "https://nihongames-web.github.io/images/437.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "pop-star",
+    "thumbnail": "https://nihongames-web.github.io/images/438.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dino-shooter-pro",
+    "thumbnail": "https://nihongames-web.github.io/images/439.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "unicorn-find-the-differences",
+    "thumbnail": "https://nihongames-web.github.io/images/440.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "burger-day",
+    "thumbnail": "https://nihongames-web.github.io/images/441.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "monster-school-vs-siren-head",
+    "thumbnail": "https://nihongames-web.github.io/images/442.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "catch-a-fish-obby",
+    "thumbnail": "https://nihongames-web.github.io/images/443.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "poppy-strike-5",
+    "thumbnail": "https://nihongames-web.github.io/images/444.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "crocodilo-tralalero-run",
+    "thumbnail": "https://nihongames-web.github.io/images/445.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "hook-master-mafia-city",
+    "thumbnail": "https://nihongames-web.github.io/images/446.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mega-lamba-ramp",
+    "thumbnail": "https://nihongames-web.github.io/images/447.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fashion-week-2025",
+    "thumbnail": "https://nihongames-web.github.io/images/448.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "kings-and-queens-match-3",
+    "thumbnail": "https://nihongames-web.github.io/images/449.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tung-tung-sagur-clicker",
+    "thumbnail": "https://nihongames-web.github.io/images/450.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "thats-my-seat-logic-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/451.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "home-match-tile-master",
+    "thumbnail": "https://nihongames-web.github.io/images/452.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "travel-with-me-asmr-edition",
+    "thumbnail": "https://nihongames-web.github.io/images/453.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "contract-deer-hunter",
+    "thumbnail": "https://nihongames-web.github.io/images/454.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "stolen-house",
+    "thumbnail": "https://nihongames-web.github.io/images/455.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "brain-puzzles-quests",
+    "thumbnail": "https://nihongames-web.github.io/images/456.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunki-coloring-book",
+    "thumbnail": "https://nihongames-web.github.io/images/457.webp",
+    "genre": "Art, Educational"
+  },
+  {
+    "id": "candy-cascade",
+    "thumbnail": "https://nihongames-web.github.io/images/458.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "tank-stars",
+    "thumbnail": "https://nihongames-web.github.io/images/459.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "cat-life-merge-money",
+    "thumbnail": "https://nihongames-web.github.io/images/460.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "dino-survival-3d-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/461.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "stick-ninja-survival",
+    "thumbnail": "https://nihongames-web.github.io/images/462.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "farmer-pedro",
+    "thumbnail": "https://nihongames-web.github.io/images/463.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "word-rivers",
+    "thumbnail": "https://nihongames-web.github.io/images/464.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fox-coin-match",
+    "thumbnail": "https://nihongames-web.github.io/images/465.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-run-battle",
+    "thumbnail": "https://nihongames-web.github.io/images/466.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "treasure-hunt-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/467.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doge-bubble",
+    "thumbnail": "https://nihongames-web.github.io/images/468.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "sprunky-incredibox-mods",
+    "thumbnail": "https://nihongames-web.github.io/images/469.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "jewel-legend-quest",
+    "thumbnail": "https://nihongames-web.github.io/images/470.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "obby-escape-from-tsunami-brainrot",
+    "thumbnail": "https://nihongames-web.github.io/images/471.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "spotdiffers",
+    "thumbnail": "https://nihongames-web.github.io/images/472.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "party-animals-cats-evolution",
+    "thumbnail": "https://nihongames-web.github.io/images/473.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "super-pop-blast",
+    "thumbnail": "https://nihongames-web.github.io/images/474.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-vs-zombies",
+    "thumbnail": "https://nihongames-web.github.io/images/475.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "battle-shot-elite",
+    "thumbnail": "https://nihongames-web.github.io/images/476.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "rainbow-friends-survival",
+    "thumbnail": "https://nihongames-web.github.io/images/477.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "boo-tiful-princess-match",
+    "thumbnail": "https://nihongames-web.github.io/images/478.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "cute-kitty-merge",
+    "thumbnail": "https://nihongames-web.github.io/images/479.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mirror-shape",
+    "thumbnail": "https://nihongames-web.github.io/images/480.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fallling-jewels",
+    "thumbnail": "https://nihongames-web.github.io/images/481.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-beats",
+    "thumbnail": "https://nihongames-web.github.io/images/482.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "running-in-foam",
+    "thumbnail": "https://nihongames-web.github.io/images/483.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "vsco-girl-aesthetic",
+    "thumbnail": "https://nihongames-web.github.io/images/484.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "toytopia",
+    "thumbnail": "https://nihongames-web.github.io/images/485.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "hide-and-seek-horror-escape",
+    "thumbnail": "https://nihongames-web.github.io/images/486.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "save-the-beauty",
+    "thumbnail": "https://nihongames-web.github.io/images/487.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zumble-story",
+    "thumbnail": "https://nihongames-web.github.io/images/488.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dynamons-10",
+    "thumbnail": "https://nihongames-web.github.io/images/489.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cookie-monster",
+    "thumbnail": "https://nihongames-web.github.io/images/490.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zombie-arena-2-fury-road",
+    "thumbnail": "https://nihongames-web.github.io/images/491.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "fruit-candy-merge",
+    "thumbnail": "https://nihongames-web.github.io/images/492.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "remove-the-evidence",
+    "thumbnail": "https://nihongames-web.github.io/images/493.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "rescue-rift",
+    "thumbnail": "https://nihongames-web.github.io/images/494.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "home-pin-1",
+    "thumbnail": "https://nihongames-web.github.io/images/495.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "butterfly-triple",
+    "thumbnail": "https://nihongames-web.github.io/images/496.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "woods-of-nevia-forest-survival",
+    "thumbnail": "https://nihongames-web.github.io/images/497.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mini-springs",
+    "thumbnail": "https://nihongames-web.github.io/images/498.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "wood-blocks-jam",
+    "thumbnail": "https://nihongames-web.github.io/images/499.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hexa-stack-christmas",
+    "thumbnail": "https://nihongames-web.github.io/images/500.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "royal-jigsaw",
+    "thumbnail": "https://nihongames-web.github.io/images/501.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ragdoll-beat-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/502.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ninjaroof",
+    "thumbnail": "https://nihongames-web.github.io/images/503.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "hex-triple-match",
+    "thumbnail": "https://nihongames-web.github.io/images/504.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "school-love-story-1",
+    "thumbnail": "https://nihongames-web.github.io/images/505.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ellie-and-ben-christmas-eve",
+    "thumbnail": "https://nihongames-web.github.io/images/506.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tank-sniper-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/507.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "pixel-journey",
+    "thumbnail": "https://nihongames-web.github.io/images/508.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "polygon-space",
+    "thumbnail": "https://nihongames-web.github.io/images/509.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "kitty-squad-winter-dress-up",
+    "thumbnail": "https://nihongames-web.github.io/images/510.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "bouncepop-quest",
+    "thumbnail": "https://nihongames-web.github.io/images/511.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "penguin-farm-ice-merge",
+    "thumbnail": "https://nihongames-web.github.io/images/512.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "chroma-trek",
+    "thumbnail": "https://nihongames-web.github.io/images/513.webp",
+    "genre": "Agility, Strategy"
+  },
+  {
+    "id": "granny-halloween-house",
+    "thumbnail": "https://nihongames-web.github.io/images/514.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "idle-archer-tower-defense-rpg",
+    "thumbnail": "https://nihongames-web.github.io/images/515.webp",
+    "genre": "Adventure, Strategy"
+  },
+  {
+    "id": "connect-clues-the-missing-professor",
+    "thumbnail": "https://nihongames-web.github.io/images/516.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-drop",
+    "thumbnail": "https://nihongames-web.github.io/images/517.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-cards-the-legend-hunt",
+    "thumbnail": "https://nihongames-web.github.io/images/518.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sprunki-mini-games",
+    "thumbnail": "https://nihongames-web.github.io/images/519.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "spin-spin",
+    "thumbnail": "https://nihongames-web.github.io/images/520.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "witch-craft-potion-sort",
+    "thumbnail": "https://nihongames-web.github.io/images/521.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hidden-objects-vacation-in-brazil",
+    "thumbnail": "https://nihongames-web.github.io/images/522.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fashion-heroes-academy",
+    "thumbnail": "https://nihongames-web.github.io/images/523.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "drunken-fighters",
+    "thumbnail": "https://nihongames-web.github.io/images/524.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "men-vs-gorillas",
+    "thumbnail": "https://nihongames-web.github.io/images/525.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "woody-tap-block",
+    "thumbnail": "https://nihongames-web.github.io/images/526.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sneaky-friends",
+    "thumbnail": "https://nihongames-web.github.io/images/527.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "farm-business-saga",
+    "thumbnail": "https://nihongames-web.github.io/images/528.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "galaxy-control-3d-strategy",
+    "thumbnail": "https://nihongames-web.github.io/images/529.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kinder-garden",
+    "thumbnail": "https://nihongames-web.github.io/images/530.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "gothic-knife",
+    "thumbnail": "https://nihongames-web.github.io/images/531.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hide-seek-go-and-find",
+    "thumbnail": "https://nihongames-web.github.io/images/532.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "merge-brick-breaker",
+    "thumbnail": "https://nihongames-web.github.io/images/533.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "wonders-of-egypt-match-2",
+    "thumbnail": "https://nihongames-web.github.io/images/534.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "russian-checkers",
+    "thumbnail": "https://nihongames-web.github.io/images/535.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "color-race-obby",
+    "thumbnail": "https://nihongames-web.github.io/images/536.webp",
+    "genre": ".IO, Agility"
+  },
+  {
+    "id": "run-n-shoot",
+    "thumbnail": "https://nihongames-web.github.io/images/537.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "geometry-open-world",
+    "thumbnail": "https://nihongames-web.github.io/images/538.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "wonders-of-egypt-match",
+    "thumbnail": "https://nihongames-web.github.io/images/539.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "codequest",
+    "thumbnail": "https://nihongames-web.github.io/images/540.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "bouncy-blob-race-obstacle-course",
+    "thumbnail": "https://nihongames-web.github.io/images/541.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "grow-warsio",
+    "thumbnail": "https://nihongames-web.github.io/images/542.webp",
+    "genre": ".IO, Battle"
+  },
+  {
+    "id": "brutalmania-io",
+    "thumbnail": "https://nihongames-web.github.io/images/543.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hoard-master-online",
+    "thumbnail": "https://nihongames-web.github.io/images/544.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-puzzle-slide-block-jam",
+    "thumbnail": "https://nihongames-web.github.io/images/545.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sudoblock-daily",
+    "thumbnail": "https://nihongames-web.github.io/images/546.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "cubes-2048io",
+    "thumbnail": "https://nihongames-web.github.io/images/547.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "zombie-shooting-king",
+    "thumbnail": "https://nihongames-web.github.io/images/548.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "excavator-simulator-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/549.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "basket-shot",
+    "thumbnail": "https://nihongames-web.github.io/images/550.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "chocolate-dream-idle-factory",
+    "thumbnail": "https://nihongames-web.github.io/images/551.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "crypto-gals-tiktok-fashion",
+    "thumbnail": "https://nihongames-web.github.io/images/552.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hidden-objects-crime-scene",
+    "thumbnail": "https://nihongames-web.github.io/images/553.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mow-it",
+    "thumbnail": "https://nihongames-web.github.io/images/554.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "super-ninja-balloon",
+    "thumbnail": "https://nihongames-web.github.io/images/555.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "komaru-cat",
+    "thumbnail": "https://nihongames-web.github.io/images/556.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "sudoku",
+    "thumbnail": "https://nihongames-web.github.io/images/557.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "mighty-run",
+    "thumbnail": "https://nihongames-web.github.io/images/558.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "frogio",
+    "thumbnail": "https://nihongames-web.github.io/images/559.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "tiktok-street-style",
+    "thumbnail": "https://nihongames-web.github.io/images/560.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spring-magic-enchanted-wardrobe",
+    "thumbnail": "https://nihongames-web.github.io/images/561.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dop-draw-one-part",
+    "thumbnail": "https://nihongames-web.github.io/images/562.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "happy-brothers",
+    "thumbnail": "https://nihongames-web.github.io/images/563.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hair-salon-beauty-salon",
+    "thumbnail": "https://nihongames-web.github.io/images/564.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "labubu-pop",
+    "thumbnail": "https://nihongames-web.github.io/images/565.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "world-soccer",
+    "thumbnail": "https://nihongames-web.github.io/images/566.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "cat-escape",
+    "thumbnail": "https://nihongames-web.github.io/images/567.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "gelatino",
+    "thumbnail": "https://nihongames-web.github.io/images/568.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "delivery-now",
+    "thumbnail": "https://nihongames-web.github.io/images/569.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "shop-sorting-2",
+    "thumbnail": "https://nihongames-web.github.io/images/570.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cleaning-princess",
+    "thumbnail": "https://nihongames-web.github.io/images/571.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "acox-runner",
+    "thumbnail": "https://nihongames-web.github.io/images/572.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "meme-challengeio",
+    "thumbnail": "https://nihongames-web.github.io/images/573.webp",
+    "genre": ".IO, Quiz"
+  },
+  {
+    "id": "bubble-shooter-wild-west",
+    "thumbnail": "https://nihongames-web.github.io/images/574.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bone-doctor-shoulder-case",
+    "thumbnail": "https://nihongames-web.github.io/images/575.webp",
+    "genre": "Care"
+  },
+  {
+    "id": "monster-school-3",
+    "thumbnail": "https://nihongames-web.github.io/images/576.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "lunar-phase-battle",
+    "thumbnail": "https://nihongames-web.github.io/images/577.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "fat-cat-life",
+    "thumbnail": "https://nihongames-web.github.io/images/578.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cat-vs-granny-cat-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/579.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "block-blast-2048",
+    "thumbnail": "https://nihongames-web.github.io/images/580.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "royal-garden-match",
+    "thumbnail": "https://nihongames-web.github.io/images/581.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "submarine-attack",
+    "thumbnail": "https://nihongames-web.github.io/images/582.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "turbo-race",
+    "thumbnail": "https://nihongames-web.github.io/images/583.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "kings-and-queens-mahjong",
+    "thumbnail": "https://nihongames-web.github.io/images/584.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "candy-match-4",
+    "thumbnail": "https://nihongames-web.github.io/images/585.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "juicy-match-2",
+    "thumbnail": "https://nihongames-web.github.io/images/586.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "mojicon-fruit-connect",
+    "thumbnail": "https://nihongames-web.github.io/images/587.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "romantic-k-pop-transformation",
+    "thumbnail": "https://nihongames-web.github.io/images/588.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "hidden-object-great-journey",
+    "thumbnail": "https://nihongames-web.github.io/images/589.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mr-stickman-gunner",
+    "thumbnail": "https://nihongames-web.github.io/images/590.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "smartle",
+    "thumbnail": "https://nihongames-web.github.io/images/591.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cosmic-aviator",
+    "thumbnail": "https://nihongames-web.github.io/images/592.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "find-the-sprunki",
+    "thumbnail": "https://nihongames-web.github.io/images/593.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nuts-bolts-sort-color-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/594.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "asmr-girl-livestream-mukbang",
+    "thumbnail": "https://nihongames-web.github.io/images/595.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "color-dots-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/596.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "super-kid-adventure",
+    "thumbnail": "https://nihongames-web.github.io/images/597.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "heroes-of-match-3",
+    "thumbnail": "https://nihongames-web.github.io/images/598.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-perfect-organization",
+    "thumbnail": "https://nihongames-web.github.io/images/599.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dress-up-run",
+    "thumbnail": "https://nihongames-web.github.io/images/600.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "kung-fu-little-animals",
+    "thumbnail": "https://nihongames-web.github.io/images/601.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "smashdoll",
+    "thumbnail": "https://nihongames-web.github.io/images/602.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hole-eat-grow-attack",
+    "thumbnail": "https://nihongames-web.github.io/images/603.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "hole-battleio",
+    "thumbnail": "https://nihongames-web.github.io/images/604.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "kingdom-puzzles",
+    "thumbnail": "https://nihongames-web.github.io/images/605.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "dream-mania-happy-match",
+    "thumbnail": "https://nihongames-web.github.io/images/606.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "floof-my-pet-house",
+    "thumbnail": "https://nihongames-web.github.io/images/607.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "obby-blox-hook",
+    "thumbnail": "https://nihongames-web.github.io/images/608.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "stickman-dinosaur-arena",
+    "thumbnail": "https://nihongames-web.github.io/images/609.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hit-ball",
+    "thumbnail": "https://nihongames-web.github.io/images/610.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sigil-seeker",
+    "thumbnail": "https://nihongames-web.github.io/images/611.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "doge-match",
+    "thumbnail": "https://nihongames-web.github.io/images/612.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "cowboys-duel",
+    "thumbnail": "https://nihongames-web.github.io/images/613.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "on-fire-basketball-shots",
+    "thumbnail": "https://nihongames-web.github.io/images/614.webp",
+    "genre": "Puzzle, Basketball"
+  },
+  {
+    "id": "falling-blocks-halloween-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/615.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "brainrot-mega-parkour",
+    "thumbnail": "https://nihongames-web.github.io/images/616.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "happy-farm-the-crop",
+    "thumbnail": "https://nihongames-web.github.io/images/617.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "epic-car-stunt-race-obby",
+    "thumbnail": "https://nihongames-web.github.io/images/618.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "cooking-restaurant-kitchen",
+    "thumbnail": "https://nihongames-web.github.io/images/619.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "italian-brainrot-clicker",
+    "thumbnail": "https://nihongames-web.github.io/images/620.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sudoku-master",
+    "thumbnail": "https://nihongames-web.github.io/images/621.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "last-day-on-earth-survival",
+    "thumbnail": "https://nihongames-web.github.io/images/622.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "jelly-monsters-link-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/623.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "siberian-assault",
+    "thumbnail": "https://nihongames-web.github.io/images/624.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "easter-shadow-match",
+    "thumbnail": "https://nihongames-web.github.io/images/625.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "craft-of-wars",
+    "thumbnail": "https://nihongames-web.github.io/images/626.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "stickman-the-flash",
+    "thumbnail": "https://nihongames-web.github.io/images/627.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "thumbpinball",
+    "thumbnail": "https://nihongames-web.github.io/images/628.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "doodle-dino-run",
+    "thumbnail": "https://nihongames-web.github.io/images/629.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "realdrive-feel-the-real-drive",
+    "thumbnail": "https://nihongames-web.github.io/images/630.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "4-colors-card-mania",
+    "thumbnail": "https://nihongames-web.github.io/images/631.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "asoka-makeup-indian-bride",
+    "thumbnail": "https://nihongames-web.github.io/images/632.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "2-player-battle",
+    "thumbnail": "https://nihongames-web.github.io/images/633.webp",
+    "genre": "Battle, Boardgames"
+  },
+  {
+    "id": "conquerio",
+    "thumbnail": "https://nihongames-web.github.io/images/634.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "blast-cubes",
+    "thumbnail": "https://nihongames-web.github.io/images/635.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "omg-word-rainbow",
+    "thumbnail": "https://nihongames-web.github.io/images/636.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "animal-klotski",
+    "thumbnail": "https://nihongames-web.github.io/images/637.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "aqua-blitz-2",
+    "thumbnail": "https://nihongames-web.github.io/images/638.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "rescue-hero",
+    "thumbnail": "https://nihongames-web.github.io/images/639.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brawl-stars-battle",
+    "thumbnail": "https://nihongames-web.github.io/images/640.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/641.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "crush-it-all",
+    "thumbnail": "https://nihongames-web.github.io/images/642.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "bubble-shooter-neon",
+    "thumbnail": "https://nihongames-web.github.io/images/643.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "from-nerd-to-popular-ballerina-cappuccina",
+    "thumbnail": "https://nihongames-web.github.io/images/644.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "princess-valentines-crush",
+    "thumbnail": "https://nihongames-web.github.io/images/645.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "tobinin",
+    "thumbnail": "https://nihongames-web.github.io/images/646.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cat-rescue",
+    "thumbnail": "https://nihongames-web.github.io/images/647.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "ragdoll-bounce",
+    "thumbnail": "https://nihongames-web.github.io/images/648.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "horror-minecraft-partytime",
+    "thumbnail": "https://nihongames-web.github.io/images/649.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "ball-and-girlfriend",
+    "thumbnail": "https://nihongames-web.github.io/images/650.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "sort-balls-cones",
+    "thumbnail": "https://nihongames-web.github.io/images/651.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "easter-glamping-trip",
+    "thumbnail": "https://nihongames-web.github.io/images/652.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "mojo-emoji",
+    "thumbnail": "https://nihongames-web.github.io/images/653.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hole-and-fill-collect-master",
+    "thumbnail": "https://nihongames-web.github.io/images/654.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dig-flow-save-water",
+    "thumbnail": "https://nihongames-web.github.io/images/655.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fruit-jam-merge-puzzle-game",
+    "thumbnail": "https://nihongames-web.github.io/images/656.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "stumble-guys",
+    "thumbnail": "https://nihongames-web.github.io/images/657.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "order-of-operation-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/658.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "offroad-jeep-game-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/659.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "hoop-world-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/660.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "jelly-math-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/661.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "arrow-shift-logic-tree",
+    "thumbnail": "https://nihongames-web.github.io/images/662.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "match-find-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/663.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "domino-solitaire",
+    "thumbnail": "https://nihongames-web.github.io/images/664.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "moto-stunts-driving-racing",
+    "thumbnail": "https://nihongames-web.github.io/images/665.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "city-drift-racing",
+    "thumbnail": "https://nihongames-web.github.io/images/666.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "isometric-escape-2",
+    "thumbnail": "https://nihongames-web.github.io/images/667.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "math-box-balance",
+    "thumbnail": "https://nihongames-web.github.io/images/668.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "crazy-2248-link-matching-puzzle-game",
+    "thumbnail": "https://nihongames-web.github.io/images/669.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "ibiza-foam-party",
+    "thumbnail": "https://nihongames-web.github.io/images/670.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fashion-challenge-catwalk-run",
+    "thumbnail": "https://nihongames-web.github.io/images/671.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "crazy-fruit-merge",
+    "thumbnail": "https://nihongames-web.github.io/images/672.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "obby-3d-sprunki-parkour",
+    "thumbnail": "https://nihongames-web.github.io/images/673.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "crazy-goose-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/674.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "geometry-vibes-x-arrow",
+    "thumbnail": "https://nihongames-web.github.io/images/675.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "idle-town-billionaire",
+    "thumbnail": "https://nihongames-web.github.io/images/676.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "clicker-hero",
+    "thumbnail": "https://nihongames-web.github.io/images/677.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "overprotective-boyfriend",
+    "thumbnail": "https://nihongames-web.github.io/images/678.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "chess-duel",
+    "thumbnail": "https://nihongames-web.github.io/images/679.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "vampiric-roulette-romance",
+    "thumbnail": "https://nihongames-web.github.io/images/680.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "fish-love-pins",
+    "thumbnail": "https://nihongames-web.github.io/images/681.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "seat-puzzle-cut-the-rope",
+    "thumbnail": "https://nihongames-web.github.io/images/682.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cute-sheep-skyblock",
+    "thumbnail": "https://nihongames-web.github.io/images/683.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "warlord-fantasy-rpg",
+    "thumbnail": "https://nihongames-web.github.io/images/684.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-racer-stunts-car",
+    "thumbnail": "https://nihongames-web.github.io/images/685.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "obby-pinata-party",
+    "thumbnail": "https://nihongames-web.github.io/images/686.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-pairs-mahjong",
+    "thumbnail": "https://nihongames-web.github.io/images/687.webp",
+    "genre": "Agility, Mahjong & Connect"
+  },
+  {
+    "id": "smoke-trail",
+    "thumbnail": "https://nihongames-web.github.io/images/688.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "urus-city-driver",
+    "thumbnail": "https://nihongames-web.github.io/images/689.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "bubbly-lab",
+    "thumbnail": "https://nihongames-web.github.io/images/690.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "moto-traffic-rider",
+    "thumbnail": "https://nihongames-web.github.io/images/691.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "monster-merge-legends-alive",
+    "thumbnail": "https://nihongames-web.github.io/images/692.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "fill-the-bottle",
+    "thumbnail": "https://nihongames-web.github.io/images/693.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "hoard-master",
+    "thumbnail": "https://nihongames-web.github.io/images/694.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "asmr-water-vs-fire",
+    "thumbnail": "https://nihongames-web.github.io/images/695.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "diepio",
+    "thumbnail": "https://nihongames-web.github.io/images/696.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-from-tung-tung-sahur",
+    "thumbnail": "https://nihongames-web.github.io/images/697.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "sprunki-clicker-merge-phase-3",
+    "thumbnail": "https://nihongames-web.github.io/images/698.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "planet-demolish",
+    "thumbnail": "https://nihongames-web.github.io/images/699.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "stick-fight-the-chaos",
+    "thumbnail": "https://nihongames-web.github.io/images/700.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "obby-on-a-bike",
+    "thumbnail": "https://nihongames-web.github.io/images/701.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "airways-maze",
+    "thumbnail": "https://nihongames-web.github.io/images/702.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "swim-good",
+    "thumbnail": "https://nihongames-web.github.io/images/703.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "darts-mastercartoon-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/704.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "quiz-squid-round",
+    "thumbnail": "https://nihongames-web.github.io/images/705.webp",
+    "genre": "Agility, Quiz"
+  },
+  {
+    "id": "moto-trials-rush",
+    "thumbnail": "https://nihongames-web.github.io/images/706.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "labubu-merge",
+    "thumbnail": "https://nihongames-web.github.io/images/707.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "race-it-car-racing",
+    "thumbnail": "https://nihongames-web.github.io/images/708.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "bubble-pop-fairyland",
+    "thumbnail": "https://nihongames-web.github.io/images/709.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "last-war-survival",
+    "thumbnail": "https://nihongames-web.github.io/images/710.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "destruction-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/711.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "one-shot-tower-physics-destroyer",
+    "thumbnail": "https://nihongames-web.github.io/images/712.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "strykon",
+    "thumbnail": "https://nihongames-web.github.io/images/713.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "skating-park",
+    "thumbnail": "https://nihongames-web.github.io/images/714.webp",
+    "genre": "Racing & Driving, .IO"
+  },
+  {
+    "id": "pop-them",
+    "thumbnail": "https://nihongames-web.github.io/images/715.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "fireboy-watergirl-7-and-friends",
+    "thumbnail": "https://nihongames-web.github.io/images/716.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "slope-emoji-2",
+    "thumbnail": "https://nihongames-web.github.io/images/717.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "one-hero",
+    "thumbnail": "https://nihongames-web.github.io/images/718.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "shotting-balls",
+    "thumbnail": "https://nihongames-web.github.io/images/719.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "traffic-tap-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/720.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "space-shooter-speed-typing-challenge",
+    "thumbnail": "https://nihongames-web.github.io/images/721.webp",
+    "genre": "Shooter, Educational"
+  },
+  {
+    "id": "cooking-festival",
+    "thumbnail": "https://nihongames-web.github.io/images/722.webp",
+    "genre": "Cooking"
+  },
+  {
+    "id": "panda-running",
+    "thumbnail": "https://nihongames-web.github.io/images/723.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hero-pipe",
+    "thumbnail": "https://nihongames-web.github.io/images/724.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "geometry-arrow",
+    "thumbnail": "https://nihongames-web.github.io/images/725.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "save-my-pet",
+    "thumbnail": "https://nihongames-web.github.io/images/726.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "math-master",
+    "thumbnail": "https://nihongames-web.github.io/images/727.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "motorcycle-simulator-offline",
+    "thumbnail": "https://nihongames-web.github.io/images/728.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "sprunki-puzzles-and-singing",
+    "thumbnail": "https://nihongames-web.github.io/images/729.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cleaning-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/730.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "beat-music-battle",
+    "thumbnail": "https://nihongames-web.github.io/images/731.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fruit-block-tetra-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/732.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pixel-destroyer",
+    "thumbnail": "https://nihongames-web.github.io/images/733.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zombie-frontier-shooter",
+    "thumbnail": "https://nihongames-web.github.io/images/734.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "warfront",
+    "thumbnail": "https://nihongames-web.github.io/images/735.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sword-and-jewel",
+    "thumbnail": "https://nihongames-web.github.io/images/736.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "candy-riddles",
+    "thumbnail": "https://nihongames-web.github.io/images/737.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flower-block",
+    "thumbnail": "https://nihongames-web.github.io/images/738.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mahjong-sort-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/739.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "serious-head-2",
+    "thumbnail": "https://nihongames-web.github.io/images/740.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "phrasle-master",
+    "thumbnail": "https://nihongames-web.github.io/images/741.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tie-dye-explosion-of-color",
+    "thumbnail": "https://nihongames-web.github.io/images/742.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "sword-and-spin",
+    "thumbnail": "https://nihongames-web.github.io/images/743.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "arrow-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/744.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sandbox-destroy-the-ragdoll",
+    "thumbnail": "https://nihongames-web.github.io/images/745.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-towers-solitaire",
+    "thumbnail": "https://nihongames-web.github.io/images/746.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://nihongames-web.github.io/images/747.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "tricky-castle",
+    "thumbnail": "https://nihongames-web.github.io/images/748.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "goober-dash",
+    "thumbnail": "https://nihongames-web.github.io/images/749.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "papa-buzja",
+    "thumbnail": "https://nihongames-web.github.io/images/750.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "chicken-wars-merge-guns",
+    "thumbnail": "https://nihongames-web.github.io/images/751.webp",
+    "genre": "Battle, Merge"
+  },
+  {
+    "id": "rope-color-sort-3d",
+    "thumbnail": "https://nihongames-web.github.io/images/752.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "snake-2048io",
+    "thumbnail": "https://nihongames-web.github.io/images/753.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "alchemy-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/754.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "childcare-master-online",
+    "thumbnail": "https://nihongames-web.github.io/images/755.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dragon-year-jigsaw",
+    "thumbnail": "https://nihongames-web.github.io/images/756.webp",
+    "genre": "Jigsaw"
+  },
+  {
+    "id": "animal-bus-traffic-jam",
+    "thumbnail": "https://nihongames-web.github.io/images/757.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "idle-archeology",
+    "thumbnail": "https://nihongames-web.github.io/images/758.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hero-transform-race",
+    "thumbnail": "https://nihongames-web.github.io/images/759.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "steam-sorter",
+    "thumbnail": "https://nihongames-web.github.io/images/760.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "dead-paradise",
+    "thumbnail": "https://nihongames-web.github.io/images/761.webp",
+    "genre": "Racing & Driving, Shooter"
+  },
+  {
+    "id": "bubble-shooter-wonders-of-egypt",
+    "thumbnail": "https://nihongames-web.github.io/images/762.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "piggy-clicker",
+    "thumbnail": "https://nihongames-web.github.io/images/763.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "kiomet-com",
+    "thumbnail": "https://nihongames-web.github.io/images/764.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tile-match-cafe",
+    "thumbnail": "https://nihongames-web.github.io/images/765.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bus-driver",
+    "thumbnail": "https://nihongames-web.github.io/images/766.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bullet-superhero",
+    "thumbnail": "https://nihongames-web.github.io/images/767.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "max-speed",
+    "thumbnail": "https://nihongames-web.github.io/images/768.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "prison-escape-online",
+    "thumbnail": "https://nihongames-web.github.io/images/769.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "gas-station-stick-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/770.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "dollys-restaurant-organizing",
+    "thumbnail": "https://nihongames-web.github.io/images/771.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "royal-rebellion-punk-magic",
+    "thumbnail": "https://nihongames-web.github.io/images/772.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "soul-not-found",
+    "thumbnail": "https://nihongames-web.github.io/images/773.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nuts-bolts-screw-glass",
+    "thumbnail": "https://nihongames-web.github.io/images/774.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "city-banana-man-agent",
+    "thumbnail": "https://nihongames-web.github.io/images/775.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "run-from-baba-yaga",
+    "thumbnail": "https://nihongames-web.github.io/images/776.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "happy-blocks",
+    "thumbnail": "https://nihongames-web.github.io/images/777.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "angry-chibi-run",
+    "thumbnail": "https://nihongames-web.github.io/images/778.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "dino-hide-n-shoot",
+    "thumbnail": "https://nihongames-web.github.io/images/779.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "ragdoll-jump",
+    "thumbnail": "https://nihongames-web.github.io/images/780.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "superheroes-and-the-wand",
+    "thumbnail": "https://nihongames-web.github.io/images/781.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "scary-shawarma-kiosk-the-anomaly",
+    "thumbnail": "https://nihongames-web.github.io/images/782.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "airport-security",
+    "thumbnail": "https://nihongames-web.github.io/images/783.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "race-clicker",
+    "thumbnail": "https://nihongames-web.github.io/images/784.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-bubbles",
+    "thumbnail": "https://nihongames-web.github.io/images/785.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "limousine-car-game-simulator",
+    "thumbnail": "https://nihongames-web.github.io/images/786.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "hot-cold-winter-style",
+    "thumbnail": "https://nihongames-web.github.io/images/787.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "dirty-them-all",
+    "thumbnail": "https://nihongames-web.github.io/images/788.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "solitaire-summer-klondike",
+    "thumbnail": "https://nihongames-web.github.io/images/789.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "waffle-words",
+    "thumbnail": "https://nihongames-web.github.io/images/790.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-ball",
+    "thumbnail": "https://nihongames-web.github.io/images/791.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "mobile-legends-slime-3v3",
+    "thumbnail": "https://nihongames-web.github.io/images/792.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "elemental-dressup-magic",
+    "thumbnail": "https://nihongames-web.github.io/images/793.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "disassemble-the-picture-puzzle",
+    "thumbnail": "https://nihongames-web.github.io/images/794.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "secrets-of-charmland",
+    "thumbnail": "https://nihongames-web.github.io/images/795.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "runic-block-collapse",
+    "thumbnail": "https://nihongames-web.github.io/images/796.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "color-strings",
+    "thumbnail": "https://nihongames-web.github.io/images/797.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "block-puzzle-travel",
+    "thumbnail": "https://nihongames-web.github.io/images/798.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spooky-link",
+    "thumbnail": "https://nihongames-web.github.io/images/799.webp",
+    "genre": "Mahjong & Connect"
+  }
+]
